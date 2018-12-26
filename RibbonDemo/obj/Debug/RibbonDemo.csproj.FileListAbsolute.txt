@@ -1,0 +1,17 @@
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\bin\Debug\RibbonDemo.exe
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\bin\Debug\RibbonDemo.pdb
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.TestForm.resources
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.HostForm.resources
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.Cache
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.exe
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.pdb
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\bin\Debug\Qios.DevSuite.Components.dll
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\bin\Debug\Qios.DevSuite.Components.xml
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.QiosCaptionTest.resources
+C:\Programs\DotNetControls\Ribbon35Release\RibbonDemo\obj\Debug\RibbonDemo.Form1.resources
